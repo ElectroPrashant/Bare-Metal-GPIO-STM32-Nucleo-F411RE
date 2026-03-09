@@ -47,9 +47,10 @@ Hardware abstraction using C structs
 
 - Important Registers Used
 
-Register	         Purpose
-RCC_AHB1ENR	       Enables clock for GPIO peripherals
+RCC_AHB1ENR	      Enables clock for GPIO peripheralS
+
 GPIOA_MODER	       Configures the mode of GPIO pins
+
 GPIOA_ODR	         Controls the output state of GPIO pins
 
 - Code Behavior
