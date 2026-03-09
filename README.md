@@ -46,6 +46,7 @@ GPIO configuration
 Hardware abstraction using C structs
 
 - Important Registers Used
+
 Register	         Purpose
 RCC_AHB1ENR	       Enables clock for GPIO peripherals
 GPIOA_MODER	       Configures the mode of GPIO pins
