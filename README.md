@@ -1,4 +1,4 @@
-# Bare-Metal-LED-Control-STM32-Nucleo-F411RE
+# Bare-Metal-GPIO-STM32-Nucleo-F411RE
 This project demonstrates bare-metal programming on the STM32F411RE microcontroller by toggling the onboard user LED without using HAL, CMSIS drivers, or external libraries.
 
 The LED connected to PA5 (LD2) on the board is toggled by directly accessing the microcontroller’s memory-mapped GPIO registers.
